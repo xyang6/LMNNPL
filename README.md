@@ -1,5 +1,5 @@
 # LMNN-PL
-The core code of the paper "Metric Learning Through Maximizing the Adversarial Margin". 
+The core code of the paper "Towards Certified Robustness of Distance Metric Learning". 
 
 ## Usage
 
